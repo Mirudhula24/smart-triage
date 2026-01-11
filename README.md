@@ -2,7 +2,7 @@
 ### AI-Powered Healthcare Triage & Resource Management System
 
 ![Project Banner](public/dashboard-preview.png)
-*(Placeholder image - replace with a screenshot of your dashboard!)*
+
 
 ## 🚨 The Problem
 Emergency departments are overwhelmed. With rising patient volumes and limited staff, **wait times increase**, **staff burnout peaks**, and critical "golden hour" moments for patient care are lost in the chaos. Triage nurses are forced to make high-stakes decisions with limited data and immense pressure.
